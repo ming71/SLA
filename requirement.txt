@@ -1,0 +1,11 @@
+tqdm
+wget
+ipdb
+numpy
+pillow
+cython
+argparse
+matplotlib
+beautifulsoup4
+tensorboard>=2.2
+opencv-python==4.1.2.30
