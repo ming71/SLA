@@ -51,5 +51,14 @@ sh test.sh
 If you find our work or code useful in your research, please consider citing:
 
 ```
-
+@article{ming2021sparse,
+  title={Sparse Label Assignment for Oriented Object Detection in Aerial Images},
+  author={Ming, Qi and Miao, Lingjuan and Zhou, Zhiqiang and Song, Junjie and Yang, Xue},
+  journal={Remote Sensing},
+  volume={13},
+  number={14},
+  pages={2664},
+  year={2021},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
 ```
